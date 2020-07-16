@@ -11,6 +11,7 @@ a{
 a:hover{
   color: #f0ece3;
 }
+
 #again-btn{
   background-color: #f0ece3;
   border-color: #f0ece3;
@@ -166,4 +167,5 @@ a:hover{
     margin-top: 10px;
     margin-bottom: 30px;
   }
+
 }
